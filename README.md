@@ -1,4 +1,4 @@
 # portfolio
 ポートフォリオのコード
 
-HTML/CSS/Jquaryを使用して制作しました。
+HTML/CSS/jQuaryを使用して制作しました。
